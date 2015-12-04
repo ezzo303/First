@@ -22,6 +22,8 @@ public class JavaApplication007 {
         System.out.println("another line");
         System.out.println("another line");
         System.out.println("another line");
+        System.out.println("another line");
+        System.out.println("another line");
     }
     
 }
