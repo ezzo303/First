@@ -20,6 +20,8 @@ public class JavaApplication007 {
         //add a comment
         System.out.println("Hello World");
         System.out.println("another line");
+        System.out.println("another line");
+        System.out.println("another line");
     }
     
 }
